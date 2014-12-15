@@ -1,0 +1,64 @@
+header{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+body{
+    background-image: url(image/imagefond/swirl_pattern.png);
+    margin: 0;
+}
+ul{
+    margin: 0;
+}
+header a{
+    background-color: #666666;
+    color: white;
+    padding: 5px;
+    border-radius: 10px;
+}
+header ul{
+    list-style:none;
+}
+header li{
+    display: inline-block;
+    text-transform: uppercase;
+    width: 32%;
+    text-decoration: none;
+}
+
+h1, h2, h3{
+    padding-left: 25px;
+    color: black;   
+    font-family: 'Dosis', sans-serif;
+    text-decontation:'underline';
+    text-align: center
+}
+main{
+    max-width: 800px;
+}
+
+li{
+    text-align: center;
+    list-style: none;
+}
+footer{
+    background-color: black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+footer img{
+    width: 35px;
+    display: inline-block;   
+    
+}
+footer ul,li{
+    display: inline-block;
+    width: 32%;
+    
+}
+    
